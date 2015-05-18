@@ -40,9 +40,9 @@ Change it, enhance it and most importantly enjoy it!
 
 <% require javascript('framework/thirdparty/jquery/jquery.js') %>
 <%-- Please move: Theme javascript (below) should be moved to mysite/code/page.php  --%>
-<% require javascript('themes/simple/javascript/script.js') %>
+<% require javascript('themes/plato-test/javascript/script.js') %>
 <% require javascript('http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js') %>
-<% require javascript('themes/simple/javascript/custom.js') %>
+<% require javascript('themes/plato-test/javascript/custom.js') %>
 
 </body>
 </html>

@@ -91,16 +91,16 @@ EOF;
             // get the type of beverage the user wanted
             switch ($data['PreferredBeverage']) {
                 case 'Coffee':
-                    $beverageURL = "/themes/simple/images/coffee.jpg";
+                    $beverageURL = "/themes/plato-test/images/coffee.jpg";
                     break;
                 case 'Tea':
-                    $beverageURL = "/themes/simple/images/tea.jpg";
+                    $beverageURL = "/themes/plato-test/images/tea.jpg";
                     break;
                 case 'Coca Cola':
-                    $beverageURL = "/themes/simple/images/coke.jpg";
+                    $beverageURL = "/themes/plato-test/images/coke.jpg";
                     break;
                 case 'Water':
-                    $beverageURL = "/themes/simple/images/water.jpg";
+                    $beverageURL = "/themes/plato-test/images/water.jpg";
                     break;
             }
 

@@ -20,7 +20,7 @@ I have configured the site for the following database details:
 * username: admin
 * password: password
 
-
+**Remember to run a /dev/build**
 
 ### Assumption
 
